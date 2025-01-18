@@ -28,11 +28,5 @@ We use six u-net models to obtain the final segmented mask. Each U-net model is 
 ## Train Sequence
 
 ![Train Sequence 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RtNmliOTdzN3Z5cjlteHF4YW0xYXI0aGllOWNzcmJlMTFvZDVoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lim01RkkIaE3B8Cb79/giphy.gif)
-![Test Sequence 1]()
-![Test Sequence 2]()
-![Test Sequence 3]()
+
 ***
-# Team 
-- [Radhika A Desai](https://github.com/Radhika-Amar-Desai)
-- [Joshua S Raju](github.com/JoshuaR26)
-- [Hitesh Krishna](https://github.com/hiteshhhh007)
