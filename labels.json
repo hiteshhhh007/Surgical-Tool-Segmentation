@@ -1,0 +1,86 @@
+[{
+    "name": "background-tissue",
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "classid": 0,
+    "epochs": 0,
+    "batchsize": 0,
+    "lossfunc": "null"
+  },
+  {
+    "name": "instrument",
+    "color": [
+      0,
+      0,
+      255
+    ],
+    "classid": 1,
+     "epochs": 10,
+    "batchsize": 3,
+    "lossfunc": "jaccard_index"
+
+  },
+  {
+    "name": "thread",
+    "color": [
+      187,
+      155,
+      25
+    ],
+    "classid": 2,
+    "epochs": 15,
+    "batchsize": 3,
+    "lossfunc": "dice_loss"
+  },
+  {
+    "name": "clamps",
+    "color": [
+      0,
+      255,
+      125
+    ],
+    "classid": 3,
+    "epochs": 10,
+    "batchsize": 3,
+    "lossfunc": "jaccard_index"
+  },
+  {
+    "name": "suturing-needle",
+    "color": [
+      255,
+      255,
+      125
+    ],
+    "classid": 4,
+    "epochs": 10,
+    "batchsize": 3,
+    "lossfunc": "jaccard_index"
+  },
+  {
+    "name": "suction-instrument",
+    "color": [
+      123,
+      15,
+      175
+    ],
+    "classid": 5,
+    "epochs": 20,
+    "batchsize": 3,
+    "lossfunc": "dice_loss"
+  },
+   {
+    "name": "ultrasound-probe",
+    "color": [
+      12,
+      255,
+      141
+    ],
+    "classid": 6,
+    "epochs": 10,
+    "batchsize": 3,
+    "lossfunc": "jaccard_index"
+  }
+]
