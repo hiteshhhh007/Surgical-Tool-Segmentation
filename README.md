@@ -2,7 +2,7 @@
 
 ---
 
-This project focuses on multiclass segmentation of surgical tools. The team has implemented the multiclass segmentation using ensemble methods that combine six U-net models. Each U-net model yields a binary segmentation mask for each class. These masks are then concatenated to formulate a segmentation mask.
+This project focuses on multiclass segmentation of surgical tools. Implemented Multiclass segmentation using ensemble methods that combine six U-net models. Each U-net model yields a binary segmentation mask for each class. These masks are then concatenated to formulate a segmentation mask.
 
 ### Goals
 1. **Precise segmentation:** *We aim to precisely segment each class in all frames of the given image.*
